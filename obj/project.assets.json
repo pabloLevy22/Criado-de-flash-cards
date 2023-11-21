@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Clipboard.net/1.45.66": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Clipboard.net.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Clipboard.net.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clipboard.net/1.45.66": {
+      "sha512": "MQd8g1VztkX/MR2Y6Bl8uhnr4xsC+lx1iTFoPtmtdqnXY24HU/NrkVz22vSQ41teUN0PIOax6GJuanMrlp0khw==",
+      "type": "package",
+      "path": "clipboard.net/1.45.66",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "clipboard.net.1.45.66.nupkg.sha512",
+        "clipboard.net.nuspec",
+        "icon.png",
+        "lib/net462/Clipboard.net.dll",
+        "lib/net6.0/Clipboard.net.dll",
+        "lib/netstandard2.0/Clipboard.net.dll",
+        "lib/netstandard2.1/Clipboard.net.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Clipboard.net >= 1.45.66"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\faete\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\faete\\OneDrive\\Documentos\\Projeto\\FlashCards\\FlashCards.csproj",
+      "projectName": "FlashCards",
+      "projectPath": "C:\\Users\\faete\\OneDrive\\Documentos\\Projeto\\FlashCards\\FlashCards.csproj",
+      "packagesPath": "C:\\Users\\faete\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\faete\\OneDrive\\Documentos\\Projeto\\FlashCards\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\faete\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Clipboard.net": {
+            "target": "Package",
+            "version": "[1.45.66, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

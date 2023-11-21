@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f/j+VPVkRJ3WI4WO+3+7O7q6vNH8t5TewG41vThZEZp2uDOEJ9EYHZ3XPLZmiL2BVSJGhQYK5xt9y5K+dt11MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faete\\OneDrive\\Documentos\\Projeto\\FlashCards\\FlashCards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faete\\.nuget\\packages\\clipboard.net\\1.45.66\\clipboard.net.1.45.66.nupkg.sha512"
+  ],
+  "logs": []
+}

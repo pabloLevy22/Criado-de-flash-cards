@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FlashCards/1.0.0": {
+        "dependencies": {
+          "Clipboard.net": "1.45.66"
+        },
+        "runtime": {
+          "FlashCards.dll": {}
+        }
+      },
+      "Clipboard.net/1.45.66": {
+        "runtime": {
+          "lib/net6.0/Clipboard.net.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlashCards/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clipboard.net/1.45.66": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MQd8g1VztkX/MR2Y6Bl8uhnr4xsC+lx1iTFoPtmtdqnXY24HU/NrkVz22vSQ41teUN0PIOax6GJuanMrlp0khw==",
+      "path": "clipboard.net/1.45.66",
+      "hashPath": "clipboard.net.1.45.66.nupkg.sha512"
+    }
+  }
+}

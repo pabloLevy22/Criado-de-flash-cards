@@ -6,8 +6,5 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-  <ItemGroup>
-    <PackageReference Include="Clipboard.net" Version="1.45.66" />
-  </ItemGroup>
 
 </Project>

@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "f/j+VPVkRJ3WI4WO+3+7O7q6vNH8t5TewG41vThZEZp2uDOEJ9EYHZ3XPLZmiL2BVSJGhQYK5xt9y5K+dt11MQ==",
+  "dgSpecHash": "ib5dKfbF+LfN75R/cBJzErTexhzKd8GGAVIW/eqCcHTL1MTPkTbaQkEI6yTHOrK1jTDiYb+2k5fVB2Shbh+UWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\faete\\OneDrive\\Documentos\\Projeto\\FlashCards\\FlashCards.csproj",
+  "projectFilePath": "D:\\Projeto\\FlashCards\\FlashCards.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\faete\\.nuget\\packages\\clipboard.net\\1.45.66\\clipboard.net.1.45.66.nupkg.sha512"
+    "C:\\Users\\faete\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\faete\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\faete\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\faete\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }
